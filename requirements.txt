@@ -1,2 +1,0 @@
-reportlab==3.6.12
-djangorestframework==3.14.0
